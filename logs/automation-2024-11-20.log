@@ -1,0 +1,7 @@
+2024-11-19 15:47:21,904 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@3adbe50f: 8 ms
+2024-11-19 15:47:21,914 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@66e889df: 6 ms
+2024-11-19 15:47:21,921 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e48e859: 6 ms
+2024-11-19 15:47:21,921 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@31ddd4a4: 0 ms
+2024-11-20 10:32:12,912 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\siva.g.meruva\eclipse-workspace\seleniumpracticeproject\testng.xml
+
